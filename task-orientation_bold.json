@@ -1,0 +1,11 @@
+{
+  "RepetitionTime": 2.0,
+  "EchoTime": 0.022,
+  "SliceEncodingDirection": "k",
+  "ParallelAcquisitionTechnique": "GRAPPA",
+  "Manufacturer": "SIEMENS", 
+  "MagneticFieldStrength": 6.98, 
+  "HardcopyDeviceSoftwareVersion": "syngo MR B17",
+  "FlipAngle": 90.0,
+  "PulseSequenceType": "Gradient Echo EPI"
+}
