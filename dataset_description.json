@@ -1,0 +1,19 @@
+{
+    "Name": "studyforrest_multires7T", 
+    "BIDSVersion": "1.0.0-rc3", 
+    "Description": "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 6 of the original 20 particpants (and one additional participant). Participants performed a central fixation task while being stimulated with oriented gratings. The experiment was repeated in four different sessions with 7T BOLD fMRI acquisition, each with a different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).", 
+    "License": "PDDL", 
+    "Authors": [
+        "Ayan Sengupta", 
+        "Renat Yakupov", 
+        "Oliver Speck", 
+        "Stefan Pollmann", 
+        "Michael Hanke"
+    ], 
+    "Acknowledgements": "Only open-source research software was employed in this study. We thank their respective authors for making it publicly available.", 
+    "HowToAcknowledge": "Please follow good scientific practice by citing the associated data descriptor: Sengupta et al. (2016), Data in Brief",
+    "Funding": "This research was supported by a grant from the German Research Foundation (DFG) awarded to S. Pollmann and O. Speck (DFG PO 548/15-1). This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology employed for this research was supported by US-German CRCNS project, co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999).", 
+    "ReferencesAndLinks": [
+        "http://studyforrest.org"
+    ]
+}
