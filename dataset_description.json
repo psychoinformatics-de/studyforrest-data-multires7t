@@ -1,7 +1,7 @@
 {
     "Name": "studyforrest_multires7t", 
     "BIDSVersion": "1.0.0-rc3", 
-    "Description": "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 6 of the original 20 particpants (and one additional participant). Participants performed a central fixation task while being stimulated with oriented gratings. The experiment was repeated in four different sessions with 7T BOLD fMRI acquisition, each with a different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).", 
+    "Description": "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 6 of the original 20 participants (and one additional participant). Participants performed a central fixation task while being stimulated with oriented gratings. The experiment was repeated in four different sessions with 7T BOLD fMRI acquisition, each with a different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).", 
     "License": "PDDL", 
     "Authors": [
         "Ayan Sengupta", 
