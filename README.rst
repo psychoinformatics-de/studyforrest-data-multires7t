@@ -76,6 +76,6 @@ to fetch all new files.
     :alt: No registration or authentication required
 
 .. |doi|
-   image:: https://img.shields.io/badge/doi-missing-lightgrey.svg
-    :target: http://dx.doi.org/
+   image:: https://zenodo.org/badge/14167/psychoinformatics-de/studyforrest-data-multires7t.svg
+    :target: https://zenodo.org/badge/latestdoi/14167/psychoinformatics-de/studyforrest-data-multires7t
     :alt: DOI
