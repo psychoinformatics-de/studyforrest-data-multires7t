@@ -1,0 +1,7 @@
+{
+  "SamplingFrequency": 0.5, 
+  "StartTime": 0.0, 
+  "Columns": ["tr_x", "tr_y", "tr_z", "rot_x", "rot_y", "rot_z"], 
+  "Units": ["mm", "mm", "mm", "mm", "mm", "mm"],
+  "ContentDescription": "Motion estimates from an automatic realignment for an online distortion-correction procedure (for the 'dico' flavor of the raw BOLD data."
+}

@@ -1,4 +1,4 @@
-id	gender	age	handedness
+participant_id	gender	age	handedness
 sub-04	f	20-25	r
 sub-06	m	20-25	r
 sub-16	m	35-40	r
