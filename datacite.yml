@@ -1,0 +1,80 @@
+# The main researchers involved. Include digital identifier (e.g., ORCID)
+# if possible, including the prefix to indicate its type.
+authors:
+  - firstname: Ayan
+    lastname: Sengupta
+
+  - firstname: Oliver
+    lastname: Speck
+
+  - firstname: Renat
+    lastname: Yakupov
+
+  - firstname: Stefan
+    lastname: Pollmann
+
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+# A title to describe the published resource.
+title: studyforrest_multires7t
+
+# Additional information about the resource, e.g., a brief abstract.
+description: |
+  "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with
+   additional acquisitions for 6 of the original 20 participants (and one additional participant).
+   Participants performed a central fixation task while being stimulated with oriented gratings.
+   The experiment was repeated in four different sessions with 7T BOLD fMRI acquisition, each
+   with a different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).
+   
+   This research was supported by a grant from the German Research Foundation (DFG) awarded to
+   S. Pollmann and O. Speck (DFG PO 548/15-1). This research was, in part, also supported by the
+   German Federal Ministry of Education and Research (BMBF) as part of a US-German collaboration
+   in computational neuroscience (CRCNS), co-funded by the BMBF and the US National Science
+   Foundation (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology employed for this
+   research was supported by US-German CRCNS project, co-funded by the BMBF and the US National
+   Science Foundation (BMBF 01GQ1411; NSF 1429999).""
+
+# Lit of keywords the resource should be associated with.
+# Give as many keywords as possible, to make the resource findable.
+keywords:
+  - Neuroscience
+  - Studyforrest
+  - BIDS
+
+# License information for this resource. Please provide the license name and/or a link to the license.
+# Please add also a corresponding LICENSE file to the repository.
+license:
+  name: "Open Data Commons Public Domain Dedication and License (PDDL)"
+  url: "https://opendatacommons.org/licenses/pddl/"
+
+
+## Optional Fields
+
+# Funding information for this resource.
+# Separate funder name and grant number by comma.
+funding:
+  - "DFG, PO 548/15-1"
+  - "BMBF, 01GQ1112"
+  - "NSF, 1129855"
+  - "BMBF, 01GQ1411"
+  - "NSF, 1429999"
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+# In the citation field, please provide the full reference, including title, authors, journal etc.
+references:
+
+  - id: "DOI:10.1038/sdata.2014.3"
+    reftype: "IsSupplementTo"
+    citation: "Hanke, M., Baumgartner, F., Ibe, P. et al. A high-resolution 7-Tesla fMRI dataset from complex natural stimulation with an audio movie. Sci Data 1, 140003 (2014)."
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+# Do not edit or remove the following line
+templateversion: 1.2
