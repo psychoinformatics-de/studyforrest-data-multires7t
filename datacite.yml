@@ -17,6 +17,13 @@ authors:
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+  - firstname: William
+    lastname: Triplett
+
 # A title to describe the published resource.
 title: studyforrest_multires7t
 
