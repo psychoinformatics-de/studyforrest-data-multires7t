@@ -1,0 +1,2 @@
+38df1f7e-a0b9-418d-a164-6ba5b00d871f archive-id=3a8648b3-7df8-413f-8efb-4d39040ac174 autoenable=true encryption=none externaltype=ora name=inm7-storage push-url=ria+ssh://bulk1.htc.inm7.de/ds/studyforrest/srv type=external url=ria+http://studyforrest.ds.inm7.de timestamp=1619640545.4552627s
+ddead121-b69b-4399-b981-8275a40ce4ef autoenable=true location=http://psydata.ovgu.de/studyforrest/multires7t/.git name=mddatasrc type=git timestamp=1455115900.950149s
