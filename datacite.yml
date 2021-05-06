@@ -1,31 +1,53 @@
 # The main researchers involved. Include digital identifier (e.g., ORCID)
 # if possible, including the prefix to indicate its type.
 authors:
-  - firstname: Ayan
-    lastname: Sengupta
-
-  - firstname: Oliver
-    lastname: Speck
-
-  - firstname: Renat
-    lastname: Yakupov
-
-  - firstname: Stefan
-    lastname: Pollmann
-
   - firstname: Michael
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Florian J.
+    lastname: Baumgartner
+
+  - firstname: Pierre
+    lastname: Ibe
+
+  - firstname: Falko R.
+    lastname: Kaule
+
+  - firstname: Stefan
+    lastname: Pollmann
+
+  - firstname: Oliver
+    lastname: Speck
+    
+  - firstname: Wolf
+    lastname: Zinke
+
+  - firstname: Jörg
+    lastname: Stadler
+
+  - firstname: Ayan
+    lastname: Sengupta
+    
   - firstname: Adina
     lastname: Wagner
     id: "ORCID:0000-0003-2917-3450"
 
+  - firstname: Laura
+    lastname: Waite
+    id: "ORCID:0000-0003-2213-7465"
+
   - firstname: William
     lastname: Triplett
 
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
+
+
 # A title to describe the published resource.
 title: studyforrest_multires7t
+
 
 # Additional information about the resource, e.g., a brief abstract.
 description: |
@@ -43,12 +65,14 @@ description: |
    research was supported by US-German CRCNS project, co-funded by the BMBF and the US National
    Science Foundation (BMBF 01GQ1411; NSF 1429999).""
 
+
 # Lit of keywords the resource should be associated with.
 # Give as many keywords as possible, to make the resource findable.
 keywords:
   - Neuroscience
   - Studyforrest
   - BIDS
+
 
 # License information for this resource. Please provide the license name and/or a link to the license.
 # Please add also a corresponding LICENSE file to the repository.
